@@ -1,12 +1,5 @@
-pandas
-numpy
-Pillow
-pytesseract
 requests
-beautifulsoup4
-schedule
-matplotlib
+Pillow
+easyocr
+groq
 python-dotenv
-tabulate
-lxml
-openpyxl
