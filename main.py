@@ -225,7 +225,7 @@ def main():
     plain_body = f"Dashboard: {PUBLIC_URL}\n\n{summary}\n\n(Attachments: PDF + OCR summary)"
 
     send_email(
-        subject="Dashboard OCR — AI Insights",
+        subject="Dashboard — AI Insights",
         text_body=plain_body,
         html_body=html_body,
         inline_png=PNG_PATH,
