@@ -41,36 +41,6 @@ Edit
  ├── requirements.txt    # Dependencies
  ├── .env                # Environment variables
  ├── .github/workflows   # GitHub Actions automation
-🚀 Getting Started
-Clone the repo
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Set up .env file
-
-ini
-Copy
-Edit
-GROQ_API_KEY=your_groq_key
-EMAIL_USER=your_email
-EMAIL_PASS=your_app_password
-Run locally
-
-bash
-Copy
-Edit
-python main.py
-Schedule on GitHub Actions
-Push your code & workflow — it will run automatically.
 
 💡 Why This Project?
 This project showcases how AI can transform static dashboards into actionable insights automatically, making it ideal for:
@@ -84,12 +54,3 @@ Freelancers delivering client reports
 Anyone who wants to automate reporting without extra cost
 
 
-
-
-
-
-
-
-
-
-Ask ChatGPT
